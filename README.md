@@ -21,8 +21,9 @@ This project recommends the most suitable crop to grow based on soil and environ
 
 ---
 
-## 🧪 Demo
+## 🚀 Live Demo
 
+👉 [Click here to try the app!](https://crop-recommendation-systemgit.streamlit.app/)
 
 ---
 
